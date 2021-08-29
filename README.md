@@ -1,4 +1,4 @@
 # Portifolio-Site-Blog
 Desenvolvimento de um site simples para blog em HTML  e CSS
 
-![image](https://user-images.githubusercontent.com/14321414/131264594-10dbd364-1961-4f65-bca7-2471a3cba7ea.png)
+![image](https://user-images.githubusercontent.com/14321414/131264620-0be217aa-576c-4f09-91c9-a931fd86f2b7.png)
